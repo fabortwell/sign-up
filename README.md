@@ -73,7 +73,8 @@ The **Sign-Up Form** project provides a modern interface for user registration. 
 
 
 ### Desktop View
-![Desktop View](![image](https://github.com/user-attachments/assets/ea309d2b-70b2-4e38-ac56-f23e63040608)
+![![image](https://github.com/user-attachments/assets/84d0cef4-cfae-4441-877f-5c1dac35609c)
+](![image](https://github.com/user-attachments/assets/ea309d2b-70b2-4e38-ac56-f23e63040608)
 )
 
 ---
