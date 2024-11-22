@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/266cf7eb-9e75-4206-9ebb-bb65dea840c1)
 # Sign-Up Form 🚀
 
 A simple and elegant sign-up form designed to collect user information while ensuring a responsive and user-friendly interface.
@@ -73,9 +73,10 @@ The **Sign-Up Form** project provides a modern interface for user registration. 
 
 
 ### Desktop View
-![![image](https://github.com/user-attachments/assets/84d0cef4-cfae-4441-877f-5c1dac35609c)
-](![image](https://github.com/user-attachments/assets/ea309d2b-70b2-4e38-ac56-f23e63040608)
-)
+
+![Screenshot from 2024-11-22 16-16-55](https://github.com/user-attachments/assets/c41bfa1b-9772-42dd-9d39-b64bbd9faf22)
+
+
 
 ---
 
